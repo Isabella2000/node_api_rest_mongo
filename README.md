@@ -1,5 +1,5 @@
 # API REST de Mongo con NodeJS
-Realizamos un servidor web donde servimos una web de tipo red social como la del pajarito
+Servidor para BD de Mongo, con otras herramientas como Node, express, Mongo, mongoose, Docker
 
 ## Comandos
 1.  docker compose up -d
